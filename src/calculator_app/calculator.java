@@ -3,6 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/*
+*This code is written by Nihit Saha
+*/
 package calculator_app;
 
 /**
